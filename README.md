@@ -1,19 +1,18 @@
+## Table of Contents
+
+- [Hono With Auth](#hono-with-auth)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Installation](#installation)
+
 # Hono With Auth
 
 hono-with-auth is a modern web application built with Next.js that integrates Hono and Drizzle for handling authentication and database operations. This project leverages a robust tech stack, including TypeScript, Tailwind CSS for styling, and Zod for schema validation. The application is designed with scalability and security in mind, featuring authentication through the @auth/core package and database interactions powered by drizzle-orm. The project is equipped with a variety of UI components from the Radix UI library, enhancing both user experience and accessibility. The integration of react-query ensures efficient data fetching and state management, making this project a comprehensive solution for building secure and responsive web applications.
 
 ## Demo
 
-[[hono with auth demo]](demo.gif)
-
-## Table of Contents
-
-- [Hono With Auth](#hono-with-auth)
-  - [Demo](#demo)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Technologies Used](#technologies-used)
-  - [Installation](#installation)
+<img src="demo.gif" alt="hono auth" />
 
 ## Features
 
